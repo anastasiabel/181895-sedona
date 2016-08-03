@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Anastasiia Orlova](https://up.htmlacademy.ru/htmlcss/14/user/181895).
-* Наставник: `Неизвестно`.
+* Наставник: [Влад Башилов](https://htmlacademy.ru/profile/id167603).
 
 ---
 
